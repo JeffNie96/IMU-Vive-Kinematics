@@ -1,4 +1,4 @@
 # IMU-Vive-Kinematics
-Extracting Kinematics Using Wearable Sensors Code
+Portable, open-source solutions for estimating wrist position during reaching in people with stroke Code
 
-Matlab code for the paper "Extracting Kinematics Using Wearable Sensors"
+Matlab code for the paper "Portable, open-source solutions for estimating wrist position during reaching in people with stroke"
